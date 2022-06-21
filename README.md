@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Natasha</h1>
 <h3 align="center">A passionate Fill stack developer from New York</h3>
+<p I'm a Full Stack Engineer at Pursuit with a passion for problem sovling. I want to utilize my skills in tech to be creative.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nriddick113&label=Profile%20views&color=0e75b6&style=flat" alt="nriddick113" /> </p>
 
